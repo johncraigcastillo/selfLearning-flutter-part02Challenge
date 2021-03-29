@@ -1,6 +1,6 @@
-# i_am_poor
+# I Am Poor
 
-I am poor
+I am poor is an app...
 
 ## Part 02 Challenge
 
